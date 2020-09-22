@@ -1,0 +1,56 @@
+.label string_rts=$9db
+.label pbyte1=$a6f
+.label pbyte2=$a69
+.label NumberToGuess=$80f
+.label prBracketOpen=$a44
+.label String=$9c2
+.label space=$9b8
+.label GuessNumberTXT=$811
+.label CongratulationsEnd_TXT=$882
+.label rand=$93b
+.label prPercent=$a53
+.label streg=$9fc
+.label Congratulations=$90b {
+}
+.label DecimalPrint=$a33
+.label CarryOnGuessing=$8f5 {
+}
+.label prBracketClosed=$a47
+.label pbyte=$a7b
+.label CarrageReturn=$9bd
+.label GuessNumberEnd=$823
+.label Guess=$80e
+.label status_register=$9fd
+.label streg2=$a0f
+.label streg1=$9ff
+.label GuessNumber=$810
+.label CarryClear_TXT=$8a5
+.label GuessLOOP=$8df
+.label pry=$a50
+.label CarrySet_TXT=$88c
+.label prx=$a4d
+.label prHash=$a56
+.label NumberToPrint=$97f
+.label SorryYourGuessToHigh=$927 {
+}
+.label string_nxtchr=$9c6
+.label pbyte_skip=$a82
+.label PleaseMakeAGuessTXT=$82e
+.label prDollar=$a41
+.label binpr4=$a23
+.label StatusState=$97e
+.label ENTER=$8d4
+.label GuessAttempts_TXT=$8bd
+.label SorryYourGuessToLow=$931 {
+}
+.label BinPrint=$a18
+.label Congratulations_TXT=$84b
+.label streg3=$a02
+.label prComma=$a4a
+.label NumberToWork=$980
+.label PrintAccumlator=$981
+.label start=$80e
+.label rgtxt=$9dc
+.label HexadecimalPrint=$a5b
+.label GetNumber=$962
+.label NotEqualToNumber=$8f1
